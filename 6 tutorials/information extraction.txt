@@ -1,0 +1,8 @@
+alchemyapi
+opencalais
+https://github.com/mit-nlp/MITIE
+http://mallet.cs.umass.edu/
+http://scrapy.org/doc/
+
+http://www.searchenginecaffe.com/2007/03/java-open-source-text-mining-and.html
+https://www.quora.com/What-is-the-best-entity-extraction-API-+-service

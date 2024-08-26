@@ -1,0 +1,3 @@
+https://www.r-project.org/about.html
+http://www.faculty.ucr.edu/~hanneman/nettext/
+http://igraph.org/r/#rdoc1
